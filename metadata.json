@@ -1,0 +1,5 @@
+{
+  "name": "RheumaBot: Clinical Intake Assistant",
+  "description": "An intelligent rheumatology patient history chatbot that follows a structured clinical logic map to triage and screen patients for RA, OA, Gout, and other conditions, including Ayurvedic integration.",
+  "requestFramePermissions": []
+}
